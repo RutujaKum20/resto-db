@@ -1,0 +1,102 @@
+{
+  "user": [
+    {
+      "name": "rutuja",
+      "email": "rutuja@test",
+      "password": "r@test",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@test",
+      "password": "p@test",
+      "id": 2
+    },
+    {
+      "name": "rutuja kumbharkar",
+      "email": "rutuja@test.com",
+      "password": "ru@test",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "email": "abc@test.com",
+      "password": "wijowe",
+      "id": 4
+    },
+    {
+      "name": "xyz",
+      "email": "xyz@test.com",
+      "password": "123243",
+      "id": 5
+    },
+    {
+      "name": "a",
+      "email": "a@test.com",
+      "password": "a",
+      "id": 6
+    },
+    {
+      "name": "b",
+      "email": "b@test.com",
+      "password": "1232143",
+      "id": 7
+    },
+    {
+      "name": "pqr",
+      "email": "pqr@test.com",
+      "password": "pqr",
+      "id": 8
+    },
+    {
+      "name": "karan",
+      "email": "karan@test.com",
+      "password": "k@test",
+      "id": 9
+    },
+    {
+      "name": "koi",
+      "email": "koi@test.com",
+      "password": "k@test",
+      "id": 10
+    },
+    {
+      "name": "ab",
+      "email": "abtest.com",
+      "password": "ab",
+      "id": 11
+    },
+    {
+      "name": "mn",
+      "email": "mntest.com",
+      "password": "mn@test",
+      "id": 12
+    }
+  ],
+  "restourants": [
+    {
+      "name": "Burger King",
+      "address": "pune 400",
+      "contact": "2121256",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "pizza hut",
+      "contact": 231212,
+      "address": "mumbai"
+    },
+    {
+      "id": 3,
+      "name": "dominos",
+      "contact": 2321212,
+      "address": " navi mumbai"
+    },
+    {
+      "name": "malwan tadka",
+      "address": "kokan west",
+      "contact": 3767279,
+      "id": 4
+    }
+  ]
+}
